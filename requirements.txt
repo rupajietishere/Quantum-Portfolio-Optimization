@@ -1,0 +1,8 @@
+numpy
+pandas
+yfinance
+matplotlib
+qiskit>=1.0.0
+qiskit-finance
+qiskit-optimization
+qiskit-algorithms
