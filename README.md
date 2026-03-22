@@ -71,5 +71,5 @@ We apply a penalty to enforce a hard budget constraint (exactly 2 assets must be
 ---
 
 ## 🤝 Connect with Me
-* **LinkedIn:** [Rupajiet Bhattacharjee](https://www.linkedin.com/in/rupajiet-bhattacharjee-60932769/)
-* **GitHub:** [@rupajietishere](https://github.com/rupajietishere) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupajiet%20Bhattacharjee-blue?logo=linkedin)](https://www.linkedin.com/in/rupajiet-bhattacharjee-60932769)  
+[![GitHub](https://img.shields.io/badge/GitHub-rupajietishere-black?logo=github)](https://github.com/rupajietishere)
