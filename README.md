@@ -39,7 +39,7 @@ Because QAOA is a probabilistic algorithm, running the quantum circuit yields a 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/rupajietishere/quantum-portfolio-optimization.git
+git clone https://github.com/rupajietishere/Quantum-Portfolio-Optimization.git
 cd quantum-portfolio-optimization
 ```
 
